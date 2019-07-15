@@ -31,4 +31,3 @@ plt.savefig('line_plot_all.png')
 plt.figure(figsize=(14, 6))
 sns.lineplot(data=museum_data['Avila Adobe'], label='Avila Adobe')
 plt.savefig('line_plot_avila_adobe.png')
-
